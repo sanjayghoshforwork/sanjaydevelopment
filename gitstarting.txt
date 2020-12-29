@@ -1,0 +1,39 @@
+Example of first time. 
+
+echo "# myproject" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M master
+git remote add origin https://github.com/sanjayghoshforwork/myproject.git
+git push -u origin master
+
+=======================
+
+
+From other place
+
+git clone https://github.com/sanjayghoshforwork/myproject
+
+
+=========================
+ /c/gitwork/c-repository 
+https://kbroman.org/github_tutorial/pages/init.html
+
+https://github.com/
+sanjayghoshforwork@gmail.com
+Takabarie30
+
+Created a new repository : SanjayForDevelopment
+
+echo "# sanjaydevelopment" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/sanjayghoshforwork/sanjaydevelopment.git
+git push -u origin main
+
+It will ask you username (sanjayghoshforwork) and password (Ta*******30)
+
+
